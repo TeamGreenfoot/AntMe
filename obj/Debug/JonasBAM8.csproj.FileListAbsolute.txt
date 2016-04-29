@@ -1,0 +1,11 @@
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\AntMe.Player.JonasBAM8.dll
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\AntMe.Player.JonasBAM8.pdb
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\AntMe.SharedComponents.dll
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\AntMe.Simulation.dll
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\AntMe.SharedComponents.xml
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\AntMe.Simulation.xml
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\de\AntMe.SharedComponents.resources.dll
+E:\Daten\AntMe!\Völker\JonasBAM8\bin\de\AntMe.Simulation.resources.dll
+E:\Daten\AntMe!\Völker\JonasBAM8\obj\Debug\JonasBAM8.csprojResolveAssemblyReference.cache
+E:\Daten\AntMe!\Völker\JonasBAM8\obj\Debug\AntMe.Player.JonasBAM8.dll
+E:\Daten\AntMe!\Völker\JonasBAM8\obj\Debug\AntMe.Player.JonasBAM8.pdb
